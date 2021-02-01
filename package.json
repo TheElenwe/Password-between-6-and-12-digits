@@ -1,5 +1,5 @@
 {
-  "name": "Password.between.6.and.12.digits",
+  "name": "password.between.6.and.12.digits",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
