@@ -1,6 +1,6 @@
 const readlineSync = require("readline-sync");
 const userName = readlineSync.question("Input the Username: ");
-const profilPicture = readlineSync.question("Input the profil picture: ");
+const profilPicture = readlineSync.question("Has profil picture? ");
 const email = readlineSync.question("Input the email: ");
 count=0;
 
